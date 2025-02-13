@@ -8,6 +8,8 @@
 - **[HD Powersolutions LLC.](hdpowersolutionsllc.com)** - Web development & design, hosting & domain purchesing consultation, Google business account & email setup
 - **[Decoraction V.V](https://decorationvv.com/)** - Turnkey solution service - Web development & design, hosting & domain purchesing consultation, Google business account & email setup, logo & business card design.
 
+---
+---
 
 ## 🏆 Work Experience
 
