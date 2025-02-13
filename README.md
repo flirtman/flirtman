@@ -7,7 +7,8 @@
 ## 📁 Portfolio
 
 - **[Leavoda Inc.](https://leavoda.com)** - Personal Project
-- **[LeonExpress](https://leaonexpress.com/)** - Turnkey solution service - Web development & design, hosting & domain purchesing consultation, Google business account & email setup, logo & business card design.
+- **[LeonExpress](https://leaonexpress.com/)** - E-commerce creation & logo design.
+- **[JLB Sport Rarities](https://jlbsportrarities.com/)** - Turnkey solution service - Web development & design, hosting & domain purchesing consultation, Google business account & email setup, logo & business card design.
 - **[Oksana Skin Care](https://oksanaskincare.com)** - Web development & design, hosting & domain purchesing consultation, Google business account & email setup
 - **[HD Powersolutions LLC.](hdpowersolutionsllc.com)** - Web development & design, hosting & domain purchesing consultation, Google business account & email setup
 - **[Decoraction V.V](https://decorationvv.com/)** - Turnkey solution service - Web development & design, hosting & domain purchesing consultation, Google business account & email setup, logo & business card design.
