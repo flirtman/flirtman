@@ -1,5 +1,14 @@
 ![Banner](https://raw.githubusercontent.com/flirtman/flirtman/refs/heads/main/github-banner.png)
 
+## 📁 Portfolio
+
+- **[Leavoda Inc.](https://leavoda.com)** - Personal Project
+- **[LeonExpress](https://leonexpress.ca) - Turnkey solution service - Web development & design, hosting & domain purchesing consultation, Google business account & email setup, logo & business card design.
+- **[Oksana Skin Care](https://oksanaskincare.com)** - Web development & design, hosting & domain purchesing consultation, Google business account & email setup
+- **[HD Powersolutions LLC.](hdpowersolutionsllc.com)** - Web development & design, hosting & domain purchesing consultation, Google business account & email setup
+- **[Decoraction V.V](https://decorationvv.com/)** - Turnkey solution service - Web development & design, hosting & domain purchesing consultation, Google business account & email setup, logo & business card design.
+
+
 ## 🏆 Work Experience
 
 ### <img src="https://media.licdn.com/dms/image/v2/D4E0BAQEWRrM89Sm_hw/company-logo_100_100/company-logo_100_100/0/1724250672722?e=1747267200&v=beta&t=pQPkkptyGT1hCQZVTLr4tyiY9hSZepUhWNZ1lk4B6a4" width="40"/> Founder  
