@@ -1,6 +1,7 @@
 ![Banner](https://raw.githubusercontent.com/flirtman/flirtman/refs/heads/main/github-banner.png)
 
 ## [ILIASVININ.COM](https://iliasvinin/com) 
+<img src="https://img.icons8.com/ios-filled/50/000000/email.png" width="20"/> [Email Me](mailto:iliasvinin@gmail.com)
 
 
 ## 📁 Portfolio
