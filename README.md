@@ -2,12 +2,12 @@
 
 ## 🏆 Work Experience
 
-### 🏢 Founder  
+### <img src="https://media.licdn.com/dms/image/v2/D4E0BAQEWRrM89Sm_hw/company-logo_100_100/company-logo_100_100/0/1724250672722?e=1747267200&v=beta&t=pQPkkptyGT1hCQZVTLr4tyiY9hSZepUhWNZ1lk4B6a4" width="20"/> Founder  
 **Leavoda** · Self-employed  
 📅 *Jan 2024 - Present · 1 yr 2 mos*  
 📍 Montreal, Quebec, Canada  
 
-**Skills:** Start-up Leadership · Start-up Ventures · Business Ownership  
+**Skills:** Start-up Leadership · Start-up Ventures · Business Ownership   
 
 ---
 
@@ -42,3 +42,17 @@
 📍 Montreal, Quebec, Canada  
 
 **Skills:** Adobe Experience Manager (AEM) · AngularJS · JavaScript · CMS  
+
+---
+
+### 🎨 Web Integrator / Designer  
+**Seedbox Technologies**  
+📅 *Nov 2011 - Jul 2014 · 2 yrs 9 mos*  
+
+**Skills:** Flash Animation · Web Design · PHP · Photoshop · Affiliate Marketing · Online Marketing · Front-end Development  
+
+---
+
+### 🎨 Web Designer/Integrator/Developer, Sales Representative, Consultant  
+**cmadesigns.net**  
+📅 *Sep 2010 - Nov 2011 · 1 yr 3 mos*  
