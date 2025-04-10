@@ -6,7 +6,7 @@
 
 ## 📁 Portfolio
 
-- **[Leavoda Inc.](https://leavoda.com)** - Personal Project
+- **[Leavoda Inc.](https://leavoda.com)** - Contract Project - Fullstack service
 - **[LeonExpress](https://leaonexpress.com/)** - Turnkey solution service - Web development & design, hosting & domain purchesing consultation, Google business account & email setup, logo & business card design.
 - **[JLB Sport Rarities](https://jlbsportrarities.com/)** - E-commerce creation & logo design.
 - **[Oksana Skin Care](https://oksanaskincare.com)** - Web development & design, hosting & domain purchesing consultation, Google business account & email setup
