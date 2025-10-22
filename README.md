@@ -9,7 +9,7 @@
 - **[Leavoda Inc.](https://leavoda.com/)** - Contract Project - Fullstack service
 - **[Provinyl-Cuisine](https://provinyl-cuisine.com/)** - Web development & design, hosting & domain purchesing consultation, Google business account & email setup
 - **[AllCleaner](https://allcleaner.ca/)** - Web development & design, & logo design
-- **[LeonExpress](https://leonexpress.com/)** - Turnkey solution service - Web development & design, hosting & domain purchesing consultation, Google business account & email setup, logo & business card design.
+- **[LeonExpress](https://leonexpress.ca/)** - Turnkey solution service - Web development & design, hosting & domain purchesing consultation, Google business account & email setup, logo & business card design.
 - **[JLB Sport Rarities](https://jlbsportrarities.com/)** - E-commerce creation & logo design.
 - **[HD Powersolutions LLC.](https://hdpowersolutionsllc.com)** - Web development & design, hosting & domain purchesing consultation, Google business account & email setup
 - **[Decoraction V.V](https://decorationvv.com/)** - Turnkey solution service - Web development & design, hosting & domain purchesing consultation, Google business account & email setup, logo & business card design.
