@@ -6,7 +6,7 @@
 
 ## 📁 Portfolio
 
-- **[Leavoda Inc.](https://leavoda.com/)** - Contract Project - Fullstack service
+- **[Leavoda Inc.](https://leavoda.com/)** - Personal Project - Fullstack 
 - **[Provinyl-Cuisine](https://provinyl-cuisine.com/)** - Web development & design, hosting & domain purchesing consultation, Google business account & email setup
 - **[AllCleaner](https://allcleaner.ca/)** - Web development & design, & logo design
 - **[LeonExpress](https://leonexpress.ca/)** - Turnkey solution service - Web development & design, hosting & domain purchesing consultation, Google business account & email setup, logo & business card design.
